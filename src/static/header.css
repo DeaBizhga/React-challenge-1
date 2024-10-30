@@ -1,0 +1,31 @@
+.imagecnt{
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+
+.headertextcnt{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+
+}
+
+.headertext h5,h3 {
+
+    color: beige;
+}
+ 
+.headertext button{
+    padding: 10px;
+    border-radius: 0;
+    background-color: beige;
+    border: none;
+}
+
+.imglist{
+   
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+}

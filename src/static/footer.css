@@ -1,0 +1,13 @@
+.footercnt{
+    list-style: none;
+    background-color: rgb(241, 225, 226);
+    color: rgba(57, 39, 16, 0.397);
+    width: 100%;
+    height: 150px;
+}
+
+.footercnt li{
+    padding-top: 20px;
+    text-align:center;
+
+}
